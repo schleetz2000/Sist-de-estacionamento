@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Estaciona.Models
+namespace estaciona.Models
 {
     public class Estacionamento
     {
